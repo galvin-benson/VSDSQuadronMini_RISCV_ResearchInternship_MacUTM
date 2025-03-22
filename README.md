@@ -7,8 +7,9 @@
 </details>
 
 
-A practical internship focused on RISC-V development using the VSDSQuadron Mini, covering setup, instruction analysis, simulation, and real-world embedded system applications.
+A practical internship focused on RISC-V development using the VSDSQuadron Mini, covering setup, instruction analysis, simulation, and real-world embedded system applications.<br>
 All on a MacBook running Ubuntu via UTM!
+
 ![image](https://github.com/user-attachments/assets/0f0091ae-8a07-4903-ac24-8c1342084913)
 <details>
 <summary><big><b>TASK-1: </b></big>The objective of this task is to set up the necessary software environment for the internship. This includes installing Ubuntu on Mac UTM configuring the given riscv-toolchain-rv32imac-aarch64, and writing a simple C program. Additionally, the task involves evaluating the corresponding RISC-V assembly code generated from the sample C code. </summary>
